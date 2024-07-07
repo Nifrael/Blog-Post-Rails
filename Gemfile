@@ -67,3 +67,5 @@ group :test do
 end
 
 gem 'rubocop-rails', require: false
+
+gem "devise", "~> 4.9"
